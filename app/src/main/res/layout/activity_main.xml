@@ -30,7 +30,7 @@
         android:id="@+id/textView3"
         android:layout_width="0dp"
         android:layout_height="99dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="96dp"
         android:background="#9FD5ED"
         android:gravity="bottom|center_horizontal"
         android:padding="16dp"
